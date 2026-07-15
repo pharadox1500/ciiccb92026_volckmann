@@ -25,11 +25,9 @@ Currently, I am expanding my knowledge in software development, network administ
 
 **Bachelor of Science in Information Technology**
 
-University of the East
+- University of the East
 
-Currently Continuing at
-
-Our Lady of Fatima University (Present)
+- Our Lady of Fatima University (Present)
 
 ---
 
