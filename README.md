@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring IT Professional | Web Developer | Networking & Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="YOUR_PROFILE_PHOTO_URL" width="180" style="border-radius:50%;" />
+  <img src="https://github.com/pharadox1500/ciiccb92026_volckmann/blob/abe35d3b0425219a730d2c9c634f308fdc678696/Volckmann.jpg" width="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
