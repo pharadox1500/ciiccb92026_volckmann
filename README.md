@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Patrick Simon T. Volckmann</h1>
+<h1 align="center">I'm Patrick Simon T. Volckmann</h1>
 <h3 align="center">Aspiring IT Professional | Web Developer | Networking & Cybersecurity Enthusiast</h3>
 
 <p align="center">
