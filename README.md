@@ -43,7 +43,7 @@ Currently, I am expanding my knowledge in software development, network administ
 
 ---
 
-## 🛠 Skills
+## Skills
 
 ### Programming
 
