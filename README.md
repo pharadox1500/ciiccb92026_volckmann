@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am an Information Technology student passionate about building web applications, computer networking, and cybersecurity. I enjoy learning new technologies and continuously improving my technical skills through projects, certifications, and hands-on experience.
 
@@ -74,7 +74,7 @@ Currently, I am expanding my knowledge in software development, network administ
 
 ---
 
-## 💻 Software & Tools
+## Software & Tools
 
 <p>
 
