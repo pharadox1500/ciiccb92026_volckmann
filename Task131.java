@@ -50,7 +50,6 @@ class Caldereta extends Afritada {
     }
 }
 
-// ✅ ONLY this class is public — MUST match filename exactly
 public class Task13 {
     public static void main(String[] args) {
         Afritada meal1 = new Afritada();
