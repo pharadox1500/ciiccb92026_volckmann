@@ -1,65 +1,20 @@
 package Task13;
 
-// Base Class
 class Afritada {
-    public void showIngredients() {
-        String[] Ingredients = {"Tomato Sauce", "Potatoes & Carrots"};
-        System.out.println("Afritada = " + java.util.Arrays.toString(Ingredients) + "🍲 \n");
-    }
+ public void showIngredients(){System.out.println("Afritada = [Tomato Sauce, Meat]");}
 }
-
-// Extended Class 1 — Mechado
 class Mechado extends Afritada {
-    public void showIngredients() {
-        String[] Ingredients = {
-            "Tomato Sauce",
-            "Potatoes & Carrots",
-            "Tomato Paste"
-        };
-        System.out.println("Mechado = " + java.util.Arrays.toString(Ingredients) + "🍲 \n");
-    }
+ public void showIngredients(){System.out.println("Mechado = [Tomato Sauce, Meat, Potatoes & Carrots]");}
 }
-
-// Extended Class 2 — Menudo
 class Menudo extends Afritada {
-    public void showIngredients() {
-        String[] Ingredients = {
-            "Tomato Sauce",
-            "Potatoes & Carrots",
-            "Liver Spread",
-            "Raisins",
-            "Hotdog"
-        };
-        System.out.println("Menudo = " + java.util.Arrays.toString(Ingredients) + "🍲 \n");
-    }
+ public void showIngredients(){System.out.println("Menudo = [Tomato Sauce, Meat, Potatoes & Carrots, Liver Spread, Raisins, Hotdog]");}
 }
-
-// Extended Class 3 — Caldereta
 class Caldereta extends Afritada {
-    public void showIngredients() {
-        String[] Ingredients = {
-            "Tomato Sauce",
-            "Potatoes & Carrots",
-            "Tomato Paste",
-            "Liver Spread",
-            "Raisins",
-            "Hotdog",
-            "Cheese"
-        };
-        System.out.println("Caldereta = " + java.util.Arrays.toString(Ingredients) + "🍲 \n");
-    }
+ public void showIngredients(){System.out.println("Caldereta = [Tomato Sauce, Meat, Potatoes & Carrots, Tomato Paste, Liver Spread, Raisins, Hotdog, Cheese]");}
 }
-
-public class Task13 {
-    public static void main(String[] args) {
-        Afritada meal1 = new Afritada();
-        Afritada meal2 = new Mechado();
-        Afritada meal3 = new Menudo();
-        Afritada meal4 = new Caldereta();
-
-        meal1.showIngredients();
-        meal2.showIngredients();
-        meal3.showIngredients();
-        meal4.showIngredients();
-    }
+public class Task131 {
+ public static void main(String[] args) {
+  Afritada meal1=new Afritada(), meal2=new Mechado(), meal3=new Menudo(), meal4=new Caldereta();
+  meal1.showIngredients(); meal2.showIngredients(); meal3.showIngredients(); meal4.showIngredients();
+ }
 }
